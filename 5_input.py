@@ -1,0 +1,7 @@
+a=input("enter here")
+b=input("enter here")
+print("output",a+b)
+print(int(a)+int(b))
+a=int(input("enter no. one:"))
+b=int(input("enter no. two:"))
+print("output",a+b)
