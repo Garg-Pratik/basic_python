@@ -11,10 +11,7 @@ for color in colors:
         print(words)
 
 for a in range(5):        
-    print("*")
-
-for s in range(1,100):
-    print("shalini😒 u didn't call Me")    
+    print("*")   
 
 for num in range(1,10):
     print(num,"hello")    
